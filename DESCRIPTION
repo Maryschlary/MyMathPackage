@@ -1,0 +1,9 @@
+Package: MyMathPackage
+Title: A Simple Math Package
+Version: 0.0.0.9000
+Authors@R: c(person(given = "Maryon", family = "Rümmler", role = c("aut", "cre"), email = "maryon.r@yahoo.com"))
+Description: A package providing simple mathematical functions like addition and multiplication.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
